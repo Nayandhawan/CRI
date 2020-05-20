@@ -1,0 +1,25 @@
+.center-block {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+.pagination-centered {
+  text-align: center;
+}
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background:rgb(245, 55, 55);
+  color: white;
+}
